@@ -1,0 +1,21 @@
+CONVERTER NUMBER PARA STRING
+String(n)
+n.toString()
+
+n1.toLocaleString('pt-BR', {style: 'currency', currency: 'BRL'})
+
+ORDENS DE OPERADORES
+- aritméticos;
+- relacionais;
+- lógicos
+
+Primeiro NÃO, depois o E, depois o OU
+
+O QUE ESTUDAR EM JS:
+- funções
+- objetos
+- modularização
+-RegEx
+- JSON
+- AJAX
+- NodeJS
